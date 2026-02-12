@@ -22,7 +22,7 @@ Uses "crime.csv" to create a new column called "risk based on ViolentCrimesPerPo
 Uses the Wikipedia page "https://en.wikipedia.org/wiki/Data_science" to scrape the first paragraph from the main content area that contains more than 50 characters. The code outputs the page title along with the scraped paragraph.
 
 # Question 8
-Uses the webpage "https://en.wikipedia.org/wiki/Data_science". The code extracts all the "<h2>" section headings from the main content area, and writes them in order to a text file called "headings.txt".
+Uses the webpage "https://en.wikipedia.org/wiki/Data_science". The code extracts all the "h2" section headings from the main content area, and writes them in order to a text file called "headings.txt".
 
 # Question 9
 Uses the webpage "https://en.wikipedia.org/wiki/Machine_learning". The code parses the first data table from the main content area that contains at least 3 rows, and saves the extracted table to "Wiki_table.csv".
